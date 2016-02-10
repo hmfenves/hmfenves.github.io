@@ -1,18 +1,18 @@
-<link href='https://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' type='text/css'>
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
 
-body {background-color: #EFF0F4;
-}
+@import url(https://fonts.googleapis.com/css?family=Seaweed+Script);
 
-h1 {font-family: Quicksand, sans-serif;
+
+h1 {font-family: 'Quicksand', sans-serif;
 	font-size: 45px;
-	font-style: ;
-	font-weight: 100;
+	font-style: normal;
+	font-weight: 400;
 	text-align: center;
     text-decoration: none;
 	text-transform: ;
 }
 
-#slogan {font-family: Graduate, cursive;
+#slogan {font-family: 'Seaweed Script', cursive;
 	font-size: 18px;
 	font-style: italic ;
 	font-weight: 100;
@@ -21,9 +21,16 @@ h1 {font-family: Quicksand, sans-serif;
 	text-transform: ;
 }
 
-p {font-family: Quicksand, sans-serif;
-	font-size: 12px;
+p {font-family: Futura, sans-serif;
+	font-size: 14px;
 	font-style: ;
 	font-weight: 100;
+
 	text-align: center;	
+
+	line-height: 1.5em;
+
+	margin: 2em;
+	margin-left: 27em;
+	margin-right: 27em; 
 }
