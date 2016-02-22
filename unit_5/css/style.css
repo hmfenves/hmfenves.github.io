@@ -2,10 +2,15 @@
 
 @import url(https://fonts.googleapis.com/css?family=Seaweed+Script);
 
+body {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 18px;
+
+}
 
 header {
 	font-family: 'Quicksand', sans-serif;
-	font-size: 45px;
+	font-size: 4em;
 	font-style: normal;
 	font-weight: 400;
 	text-align: center;
