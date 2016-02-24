@@ -13,8 +13,6 @@ header {
 	font-style: normal;
 	font-weight: 400;
 	text-align: center;
-    text-decoration: none;
-	text-transform: ;
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
@@ -27,7 +25,6 @@ header {
 	font-weight: 100;
 	text-align: center;
 	text-decoration: none;
-	text-transform: ;
 }
 
 nav {
@@ -37,7 +34,6 @@ nav {
 	font-weight: 100;
 	text-align: center;
     text-decoration: none;
-	text-transform: ;
 	background-color: #E8C66A;
 	border: 1px black solid;
 	padding: 20px;
@@ -49,8 +45,6 @@ nav {
 	font-style: normal;
 	font-weight: 400;
 	text-align: center;
-    text-decoration: none;
-	text-transform: ;
 	background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px;
@@ -59,7 +53,6 @@ nav {
 #services {
 	font-family: 'Quicksand', sans-serif;
 	font-size: 12px;
-	font-style: none;
 	font-weight: 100;
 	text-align: center;	
 	line-height: 1.5em;
