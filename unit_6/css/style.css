@@ -2,76 +2,14 @@
 
 @import url(https://fonts.googleapis.com/css?family=Seaweed+Script);
 
-body {
-	font-family: 'Quicksand', sans-serif;
-	font-size: 15px;
+nav {
+	background-color: #000000;
+	font-family: "Quicksand", sans-serif;
+
 }
 
-header {
-	font-family: 'Quicksand', sans-serif;
-	font-size: 2em;
-	font-style: normal;
-	font-weight: 400;
-	text-align: center;
-	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-#slogan {
-	font-family: 'Seaweed Script', cursive;
-	font-size: 18px;
-	font-style: italic ;
-	font-weight: 100;
-	text-align: center;
+a {
+	background-color: #FFFFFF;
+	color: white;
 	text-decoration: none;
 }
-
-nav {
-	font-family: 'Quicksand', sans-serif;
-	font-size: 25px;
-	font-style: normal;
-	font-weight: 100;
-	text-align: center;
-    text-decoration: none;
-	background-color: #E8C66A;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-#about {
-	font-family: 'Quicksand', sans-serif;
-	font-size: 20px;
-	font-style: normal;
-	font-weight: 400;
-	text-align: center;
-	background-color: #FFC675;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-#services {
-	font-family: 'Quicksand', sans-serif;
-	font-size: 10px;
-	font-weight: 100;
-	text-align: center;	
-	line-height: 1.5em;
-	margin: 2em;
-	margin-left: 27em;
-	margin-right: 27em; 
-	background-color: #E89C6C;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-footer {
-	font-family: 'Quicksand', sans-serif;
-	font-size: 45px;
-	font-style: normal;
-	font-weight: 400;
-	text-align: center;
-	background-color: #FF957E;
-	border: 1px black solid;
-	padding: 20px;
-
-
