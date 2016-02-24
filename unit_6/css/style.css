@@ -16,3 +16,7 @@ a {
 	padding: 10px;
 	width: 200px;
 }
+
+a:hover {
+	background-color: #AAAAAA
+}
