@@ -30,15 +30,15 @@ header {
 	text-transform: ;
 }
 
-#one {
+nav {
 	font-family: 'Quicksand', sans-serif;
 	font-size: 25px;
 	font-style: normal;
-	font-weight: 400;
+	font-weight: 100;
 	text-align: center;
     text-decoration: none;
 	text-transform: ;
-	background-color: [#E8C66A;
+	background-color: #E8C66A;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -51,7 +51,7 @@ aside {
 	text-align: center;
     text-decoration: none;
 	text-transform: ;
-	background-color: [#FFC675];
+	background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -66,7 +66,7 @@ article {
 	margin: 2em;
 	margin-left: 27em;
 	margin-right: 27em; 
-	background-color: [#E89C6C];
+	background-color: #E89C6C;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -79,7 +79,7 @@ footer {
 	text-align: center;
     text-decoration: none;
 	text-transform: ;
-	background-color: [#FF957E];
+	background-color: #FF957E;
 	border: 1px black solid;
 	padding: 20px;
 
