@@ -43,7 +43,7 @@ nav {
 	padding: 20px;
 }
 
-aside {
+#about {
 	font-family: 'Quicksand', sans-serif;
 	font-size: 45px;
 	font-style: normal;
@@ -56,7 +56,7 @@ aside {
 	padding: 20px;
 }
 
-article {
+#services {
 	font-family: 'Quicksand', sans-serif;
 	font-size: 12px;
 	font-style: none;
