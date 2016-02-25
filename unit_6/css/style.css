@@ -13,8 +13,18 @@ a {
 	color: white;
 	text-decoration: none;
 	display: block;
-	padding: 10px;
+	float: left;
+	padding: 20px;
 	width: 200px;
+}
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
 }
 
 a:hover {
