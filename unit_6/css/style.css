@@ -3,8 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Seaweed+Script);
 
 img {
-	width: 100%;
-	height: auto;
+
 }
 
 header {
@@ -45,6 +44,7 @@ a {
 
 a:hover {
 	background-color: gray;
+	color: white;
 }
 
 .clearfix:after{
