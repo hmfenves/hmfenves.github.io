@@ -44,7 +44,7 @@ a {
 }
 
 a:hover {
-	background-color: blue
+	background-color: gray;
 }
 
 .clearfix:after{
