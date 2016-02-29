@@ -8,8 +8,8 @@ header {
 	font-style: normal;
 	font-weight: 400;
 	text-align: center;
-	background-color: #FFED74;
-	border: 1px black solid;
+	background-color: white;
+	border: none;
 	padding: 20px;
 }
 
@@ -53,11 +53,11 @@ a:hover {
 
 footer {
 	font-family: 'Quicksand', sans-serif;
-	font-size: 45px;
+	font-size: 12px;
 	font-style: normal;
 	font-weight: 400;
 	text-align: center;
-	background-color: #FF957E;
-	border: 1px black solid;
+	background-color: white;
+	border: none;
 	padding: 20px;
 
