@@ -2,6 +2,26 @@
 
 @import url(https://fonts.googleapis.com/css?family=Seaweed+Script);
 
+header {
+		font-family: 'Quicksand', sans-serif;
+	font-size: 2em;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#slogan {
+	font-family: 'Seaweed Script', cursive;
+	font-size: 18px;
+	font-style: italic ;
+	font-weight: 100;
+	text-align: center;
+	text-decoration: none;
+}
+
 nav {
 	background-color: white;
 	font-family: "Quicksand", sans-serif;
@@ -17,6 +37,10 @@ a {
 	width: 200px;
 }
 
+a:hover {
+	background-color: blue
+}
+
 .clearfix:after{
 	visibility: hidden;
 	display: block;
@@ -26,6 +50,13 @@ a {
 	font-size: 0;
 }
 
-a:hover {
-	background-color: blue
-}
+footer {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 45px;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+
