@@ -56,7 +56,25 @@ a:hover {
 	font-size: 0;
 }
 
-aside {
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+p {
 	font-family: 'Quicksand', sans-serif;
 	font-size: 14px;
 	font-style: normal;
