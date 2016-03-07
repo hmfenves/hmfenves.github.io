@@ -63,15 +63,19 @@ a:hover {
 }
 
 #left {
-	background-color: #E582A2;
+	background-color: violet;
 	border: 1px black solid;
 	padding: 20px;
+	float: left;
+	width: 45%;
 }
 
 #right {
 	background-color: #E55B88;
 	border: 1px black solid;
 	padding: 20px;
+	float: right;
+	width: 45%;
 }
 
 p {
@@ -83,6 +87,15 @@ p {
 	background-color: white;
 	border: none;
 	padding: 20px;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
 
 footer {
